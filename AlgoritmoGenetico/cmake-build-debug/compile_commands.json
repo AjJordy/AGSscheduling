@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/jordy/CLionProjects/AlgoritmoGenetico/cmake-build-debug",
+  "command": "/usr/bin/c++     -g   -std=gnu++14 -o CMakeFiles/AlgoritmoGenetico.dir/main.cpp.o -c /home/jordy/CLionProjects/AlgoritmoGenetico/main.cpp",
+  "file": "/home/jordy/CLionProjects/AlgoritmoGenetico/main.cpp"
+},
+{
+  "directory": "/home/jordy/CLionProjects/AlgoritmoGenetico/cmake-build-debug",
+  "command": "/usr/bin/c++     -g   -std=gnu++14 -o CMakeFiles/AlgoritmoGenetico.dir/file_to_object.cpp.o -c /home/jordy/CLionProjects/AlgoritmoGenetico/file_to_object.cpp",
+  "file": "/home/jordy/CLionProjects/AlgoritmoGenetico/file_to_object.cpp"
+},
+{
+  "directory": "/home/jordy/CLionProjects/AlgoritmoGenetico/cmake-build-debug",
+  "command": "/usr/bin/c++     -g   -std=gnu++14 -o CMakeFiles/AlgoritmoGenetico.dir/files.cpp.o -c /home/jordy/CLionProjects/AlgoritmoGenetico/files.cpp",
+  "file": "/home/jordy/CLionProjects/AlgoritmoGenetico/files.cpp"
+},
+{
+  "directory": "/home/jordy/CLionProjects/AlgoritmoGenetico/cmake-build-debug",
+  "command": "/usr/bin/c++     -g   -std=gnu++14 -o CMakeFiles/AlgoritmoGenetico.dir/Ag.cpp.o -c /home/jordy/CLionProjects/AlgoritmoGenetico/Ag.cpp",
+  "file": "/home/jordy/CLionProjects/AlgoritmoGenetico/Ag.cpp"
+},
+{
+  "directory": "/home/jordy/CLionProjects/AlgoritmoGenetico/cmake-build-debug",
+  "command": "/usr/bin/c++     -g   -std=gnu++14 -o CMakeFiles/AlgoritmoGenetico.dir/Cromossomo.cpp.o -c /home/jordy/CLionProjects/AlgoritmoGenetico/Cromossomo.cpp",
+  "file": "/home/jordy/CLionProjects/AlgoritmoGenetico/Cromossomo.cpp"
+},
+{
+  "directory": "/home/jordy/CLionProjects/AlgoritmoGenetico/cmake-build-debug",
+  "command": "/usr/bin/c++     -g   -std=gnu++14 -o CMakeFiles/AlgoritmoGenetico.dir/Elemento.cpp.o -c /home/jordy/CLionProjects/AlgoritmoGenetico/Elemento.cpp",
+  "file": "/home/jordy/CLionProjects/AlgoritmoGenetico/Elemento.cpp"
+},
+{
+  "directory": "/home/jordy/CLionProjects/AlgoritmoGenetico/cmake-build-debug",
+  "command": "/usr/bin/c++     -g   -std=gnu++14 -o CMakeFiles/AlgoritmoGenetico.dir/Disciplina.cpp.o -c /home/jordy/CLionProjects/AlgoritmoGenetico/Disciplina.cpp",
+  "file": "/home/jordy/CLionProjects/AlgoritmoGenetico/Disciplina.cpp"
+}
+]

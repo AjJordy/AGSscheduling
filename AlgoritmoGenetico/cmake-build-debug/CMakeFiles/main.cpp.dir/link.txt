@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/main.cpp.dir/main.cpp.o CMakeFiles/main.cpp.dir/Ag.cpp.o  -o main.cpp 
